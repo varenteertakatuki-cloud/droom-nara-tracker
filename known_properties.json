@@ -1,0 +1,21 @@
+{
+    "source_list_url": "https://www.droom-daiwaliving.net/nara/list/?city%5B%5D=29201&city%5B%5D=29202&city%5B%5D=29203&city%5B%5D=29204&city%5B%5D=29205&city%5B%5D=29206&city%5B%5D=29208&city%5B%5D=29209&city%5B%5D=29210&city%5B%5D=29211&city%5B%5D=29343&city%5B%5D=29344&city%5B%5D=29345&city%5B%5D=29361&city%5B%5D=29363&city%5B%5D=29424&city%5B%5D=29425&city%5B%5D=29426&city%5B%5D=29427&rcl=-1&rcu=-1&sqml=-1&sqmu=-1&stdt=Y&pref%5B%5D=29",
+    "last_checked": "2026-08-23",
+    "known_buildings": [
+          {"building_id": "700139146-001", "name": "サニーヒロⅡ"},
+          {"building_id": "700141508-001", "name": "Casa Liberty Balance Third"},
+          {"building_id": "700140591-001", "name": "RETOLIA瓦口CREST"},
+          {"building_id": "700140483-001", "name": "RETOLIA瓦口EAST"},
+          {"building_id": "700140053-001", "name": "テラス・オルキデ宝来"},
+          {"building_id": "700139402-001", "name": "RETOLIA畝傍WEST"},
+          {"building_id": "700135899-001", "name": "萩　Ⅰ"},
+          {"building_id": "700138590-001", "name": "そらみつ大和八木"},
+          {"building_id": "700140546-001", "name": "RETOLIA小綱"},
+          {"building_id": "700140482-001", "name": "RETOLIA瓦口WEST"},
+          {"building_id": "700140298-001", "name": "amFuru（アムフル）"},
+          {"building_id": "700139805-001", "name": "Maison de Pino（メゾン ド ピノ）"},
+          {"building_id": "700138943-001", "name": "Villa Calma"},
+          {"building_id": "700140460-001", "name": "グラン　ソフィア"},
+          {"building_id": "700140816-001", "name": "グランヴェール西の京"}
+    ]
+}
